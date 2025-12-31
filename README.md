@@ -1,6 +1,6 @@
 # Bright Dataのタイプロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations/th) 
+[![Promo](https://github.com/bright-jp/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations/th) 
 
 ## 概要
 正確なターゲティング、比類のない安定性、高速なレスポンスタイムを提供するよう設計されたBright Dataの[タイプロキシ](https://brightdata.jp/locations/th)で、シームレスなスクレイピングを体験してください。タイからWebサイトのスクレイピングを開始し、二度とブロックされないようにしましょう。
@@ -39,7 +39,7 @@
 - **3G/4G/5GモバイルIP**
 - **24/7グローバルサポート**
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/th) 
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/th) 
 
 ## Bright Dataのタイプロキシの始め方
 1. **無料トライアルを開始**: クレジットカードは不要です。
